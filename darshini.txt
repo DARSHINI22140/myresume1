@@ -1,0 +1,55 @@
+DARSHINI R
+
+CAREER OBJECTIVE 
+- The objective of my life is to improve my caliber that I can bring a change in my country, socially and economically. 
+
+EDUCATION YEAR OF COMPLETION
+ 
+● BACHELOR, MECHATRONICS ENGINEERING – 7.86*(CGPA) 2020 Bannari Amman Institute of Technology, Sathyamangalam, Erode. 
+● HSC - 90.75 2016 
+Cambridge Matriculation Higher Secondary School,Agasthiyarpatti. 
+● SSLC - 96.80 2014 
+Cambridge Matriculation Higher Secondary Schhol,Agasthiyarpatti. 
+
+PROJECTS: 
+
+● AUTOMATIC TICKET VERIFICATION(5th October2017-20th October 2017) 
+Bar codes were generated using MS-Excel and those bar codes were feeded as input to the controller. When ever the controller finds the input it gives the verified signal. 
+● MIMICKING ROBOTIC ARM (3rd March 2018 – 15th March 2018) 
+It has two robotic arms. One has potentiometers on the joints, and the other has servos. When you manipulate the potentiometer arm, the servo arm mimicks the action using an arduino. The Controlled arm gets controlled by the controller arm. 
+● SMART ENERGY METER USING IOT (10th September 2018 – 25th September 2018) 
+To automate the current readings in energy meter by using the concept of internet of things. The obtained reading gets stored in the cloud platform and can be accessed as well as retrieved at any time and any where. 
+● DESIGN AND FABRICATION OF AGRO SPRAY (5th April 2019 – 15th April 2019) 
+In rural areas, spraying pesticides is done by hand spray so we built the simplest, cost efficient yet effective agro sprayer and to remove the design complications usually found in mechanical sprayers. 
+ACHIEVEMENTS: 
+● Won 2 ACHIEVER AWARD (2018 - 2019) in Bannari Amman Institute of Technology, ERODE. 
+● Submitted a paper about SILICA TYRES FROM RICE HUSK ASH in 2nd International Conference on Advances in Materials Science and Technology (ICAMST 2017) held at VIT University during 9th October – 11th October, Vellore - 2017.
+ 
+ACHIEVEMENTS:
+
+● Secured first prize in Paper Presentation at Nandha engineering college held on 14th March, Tiruppur2017. 
+● Gained first prize in Paper Presentation at Sengunthar engineering college held on 18th September, Namakkal - 2018. 
+● Prevailed first prize in Paper Presentation at Maharaja engineering college held on 30th August, Tiruppur - 2017. 
+● Bagged first prize in technical quiz at Maharaja engineering college held on 30th August, Tiruppur 2017. 
+● Secured second prize in Paper Presentation at Kongu engineering college held on 1st March, Erode 2017. 
+● Participated in Paper Presentation at National Institute of Technology held on 1st December, Trichy2017. 
+● Participated in Paper Presentation held at PSG college of Technology held on 12th febraury, Coimbatore2017. 
+● Successfully Completed DIPLOMA in YOGA FOR YOUTH EMPOWERMENT during the period from August – March, 2017. 
+● Won 2nd Prize in Cricket-INTRAMS held at Bannari Amman Institute Of Technology-2019. 
+
+PERSONAL DETAILS 
+
+● GENDER : FEMALE 
+● DATE OF BIRTH : 22/12/2001
+● EMAIL ID : darshinid830@gmail.com 
+● CONTACT NUMBER : 6382118565
+● LOCATION : 121, SIVASAKTHI NAGAR, 
+ADAYAKARUNGULAM, 
+AMBASAMUDRAM, 
+TIRUNELVELI – 627425. 
+
+DECLARATION: 
+
+I do hereby declare that above particulars of information and facts stated are true, correct and complete to the best of my knowledge and belief. 
+Date: 
+Place:                                                                                                                                                       (DARSHINI R)
